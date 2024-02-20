@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "950069037421",
+    "project_id": "undercontrol-b2e00",
+    "storage_bucket": "undercontrol-b2e00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950069037421:android:9b178409a6fa4929b37264",
+        "android_client_info": {
+          "package_name": "com.company.undercontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950069037421-eq1b2tq6e677l584rt2pgdncbu0s4gad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.undercontrol",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "950069037421-qesq05bsen8c260s4nh4nupro1rakoik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjbPQ7rkdsBEap9coEe8Noxr8MeKf6Njs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950069037421-2h4ohgedb32i0rmi8kui3ehrub3ebbhr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "950069037421-478f9fiqjct12l94hv7075i8l94b0v0l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.undercontrol"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950069037421:android:c78825807398022ab37264",
+        "android_client_info": {
+          "package_name": "com.mycompany.undercontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950069037421-aoj1o3pbfmstrfs17h6ip9k08paogigg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.undercontrol",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "950069037421-qesq05bsen8c260s4nh4nupro1rakoik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjbPQ7rkdsBEap9coEe8Noxr8MeKf6Njs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950069037421-2h4ohgedb32i0rmi8kui3ehrub3ebbhr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "950069037421-478f9fiqjct12l94hv7075i8l94b0v0l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.undercontrol"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

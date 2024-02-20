@@ -1,0 +1,22 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "servico",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "empresa",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "dateFilter",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "dataInsert",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}
